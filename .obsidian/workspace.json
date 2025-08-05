@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "81b93f5cdb16fc2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7ba51fe6588c7be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd1dcf990627f349",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机组成原理/$2$ 基本ALU.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "$2$ 基本ALU"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "460d98f481829746",
+    "type": "split",
+    "children": [
+      {
+        "id": "d303ccce9ddf8b74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e5ad515670bd657",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "0812f6b3c331fdf8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:\"计算机组成原理/\" ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "a434d5a1b7a478b6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cb6a631375e425f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "094b65c0bc187eed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16ea2490a63c739d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "计算机组成原理/$2$ 基本ALU.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "$2$ 基本ALU 的反向链接列表"
+            }
+          },
+          {
+            "id": "67ea232386113fb5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "计算机组成原理/$2$ 基本ALU.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "$2$ 基本ALU 的出链列表"
+            }
+          },
+          {
+            "id": "a30e5640171e3b22",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "2dfb6e933182034f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "计算机组成原理/$2$ 基本ALU.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "$2$ 基本ALU 的大纲"
+            }
+          },
+          {
+            "id": "f120bae5fff4ec82",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "dd1dcf990627f349",
+  "lastOpenFiles": [
+    "计算机组成原理/$2$ 基本ALU.md",
+    "未命名.canvas",
+    "Pasted image 20250805200243.png",
+    "计算机组成原理/$1$ 计算机基础.md",
+    "未命名.md",
+    "Stable Diffusion/基本.md",
+    "计算机组成原理",
+    "CSAPP/fork和waitpid.md",
+    "Stable Diffusion/未命名",
+    "Stable Diffusion",
+    "JavaScript/基本知识.md",
+    "未命名 2.canvas",
+    "JavaScript",
+    "2025-05-20.md",
+    "未命名 1.canvas",
+    "欢迎.md",
+    "Pasted image 20250520150732.png",
+    "创建链接.md",
+    "CSAPP"
+  ]
+}
