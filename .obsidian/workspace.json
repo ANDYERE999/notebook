@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cb6a631375e425f0",
@@ -166,10 +167,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 408.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -181,9 +183,10 @@
   },
   "active": "dd1dcf990627f349",
   "lastOpenFiles": [
-    "Pasted image 20250809213326.png",
+    "Pasted image 20250819154646.png",
     "计算机组成原理/$1$ 计算机基础.md",
     "计算机组成原理/$2$ 基本ALU.md",
+    "Pasted image 20250809213326.png",
     "未命名.canvas",
     "Pasted image 20250805200243.png",
     "未命名.md",
