@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机组成原理/$2$ 基本ALU.md",
+                "file": "计算机组成原理/$3$ 存储系统.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "$2$ 基本ALU"
+              "title": "$3$ 存储系统"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cb6a631375e425f0",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机组成原理/$2$ 基本ALU.md",
+                "file": "计算机组成原理/$3$ 存储系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "$2$ 基本ALU 的反向链接列表"
+              "title": "$3$ 存储系统 的反向链接列表"
             }
           },
           {
@@ -114,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机组成原理/$2$ 基本ALU.md",
+                "file": "计算机组成原理/$3$ 存储系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "$2$ 基本ALU 的出链列表"
+              "title": "$3$ 存储系统 的出链列表"
             }
           },
           {
@@ -167,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 408.5
+    "width": 335.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,12 +180,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8d451fc02685760a",
+  "active": "f120bae5fff4ec82",
   "lastOpenFiles": [
-    "Pasted image 20250819160725.png",
-    "计算机组成原理/$3$ 存储系统.md",
-    "计算机组成原理/$1$ 计算机基础.md",
+    "Pasted image 20250819222409.png",
     "计算机组成原理/$2$ 基本ALU.md",
+    "计算机组成原理/$1$ 计算机基础.md",
+    "计算机组成原理/$3$ 存储系统.md",
+    "未命名.base",
+    "Pasted image 20250819160725.png",
     "未命名 1.md",
     "Pasted image 20250809213326.png",
     "Pasted image 20250805200243.png",
