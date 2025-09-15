@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f91a766c88bfd679",
+        "id": "0f14b36f7db5484f",
         "type": "tabs",
         "children": [
           {
-            "id": "8d451fc02685760a",
+            "id": "17dbc9393ae4cf1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机组成原理/$3$ 存储系统.md",
+                "file": "RISV-C/$2$ RISC-V 指令集形式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "$3$ 存储系统"
+              "title": "$2$ RISC-V 指令集形式"
             }
           }
         ]
@@ -34,19 +34,6 @@
         "id": "d303ccce9ddf8b74",
         "type": "tabs",
         "children": [
-          {
-            "id": "2e5ad515670bd657",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "文件列表"
-            }
-          },
           {
             "id": "0812f6b3c331fdf8",
             "type": "leaf",
@@ -73,8 +60,22 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
+          },
+          {
+            "id": "3847c8a6b4043e54",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -142,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机组成原理/$2$ 基本ALU.md",
+                "file": "RISV-C/$2$ RISC-V 指令集形式.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "$2$ 基本ALU 的大纲"
+              "title": "$2$ RISC-V 指令集形式 的大纲"
             }
           },
           {
@@ -182,20 +183,30 @@
   },
   "active": "f120bae5fff4ec82",
   "lastOpenFiles": [
-    "Pasted image 20250819222409.png",
-    "计算机组成原理/$2$ 基本ALU.md",
-    "计算机组成原理/$1$ 计算机基础.md",
-    "计算机组成原理/$3$ 存储系统.md",
-    "未命名.base",
-    "Pasted image 20250819160725.png",
+    "Pasted image 20250915092911.png",
+    "Pasted image 20250915091613.png",
+    "Pasted image 20250915091005.png",
+    "计算机组成原理/$4$ 机器指令.md",
+    "RISV-C/$2$ RISC-V 指令集形式.md",
+    "未命名.md",
+    "未命名 2.md",
     "未命名 1.md",
+    "RISV-C",
+    "计算机组成原理/$3$ 存储系统.md",
+    "计算机组成原理/$2$ 基本ALU.md",
+    "计算机组成原理/$5$ CPU详细结构.md",
+    "计算机组成原理/$1$ 计算机基础.md",
+    "Pasted image 20250827234113.png",
+    "未命名 1.base",
+    "未命名.base",
+    "Pasted image 20250819222409.png",
+    "Pasted image 20250819160725.png",
     "Pasted image 20250809213326.png",
     "Pasted image 20250805200243.png",
     "Pasted image 20250819154646.png",
     "Pasted image 20250819163322.png",
     "Pasted image 20250819163516.png",
     "未命名.canvas",
-    "未命名.md",
     "Stable Diffusion/基本.md",
     "计算机组成原理",
     "CSAPP/fork和waitpid.md",
@@ -207,7 +218,6 @@
     "2025-05-20.md",
     "未命名 1.canvas",
     "欢迎.md",
-    "Pasted image 20250520150732.png",
     "创建链接.md",
     "CSAPP"
   ]
