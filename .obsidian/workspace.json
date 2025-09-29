@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RISV-C/$2$ RISC-V 指令集形式.md",
+                "file": "RISV-C/$2$ Synchronization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "$2$ RISC-V 指令集形式"
+              "title": "$2$ Synchronization"
             }
           }
         ]
@@ -181,14 +181,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f120bae5fff4ec82",
+  "active": "17dbc9393ae4cf1f",
   "lastOpenFiles": [
+    "RISV-C/$2$ RISC-V 指令集形式.md",
+    "RISV-C/$2$ Synchronization.md",
+    "JAVA/2.md",
+    "CV/王轶铭【大创】.md",
+    "JAVA",
+    "CV/王轶铭.md",
+    "CV/王轶铭.pdf",
+    "Pasted image 20250924111152.png",
+    "Pasted image 20250922091247.png",
+    "未命名.md",
+    "概率论/概率论作业.canvas",
+    "CV",
+    "IMG_6300.jpg",
+    "JavaScript/基本知识.md",
+    "概率论",
     "Pasted image 20250915092911.png",
     "Pasted image 20250915091613.png",
     "Pasted image 20250915091005.png",
     "计算机组成原理/$4$ 机器指令.md",
-    "RISV-C/$2$ RISC-V 指令集形式.md",
-    "未命名.md",
     "未命名 2.md",
     "未命名 1.md",
     "RISV-C",
@@ -202,23 +215,16 @@
     "Pasted image 20250819222409.png",
     "Pasted image 20250819160725.png",
     "Pasted image 20250809213326.png",
-    "Pasted image 20250805200243.png",
-    "Pasted image 20250819154646.png",
-    "Pasted image 20250819163322.png",
-    "Pasted image 20250819163516.png",
     "未命名.canvas",
     "Stable Diffusion/基本.md",
     "计算机组成原理",
     "CSAPP/fork和waitpid.md",
     "Stable Diffusion/未命名",
     "Stable Diffusion",
-    "JavaScript/基本知识.md",
     "未命名 2.canvas",
-    "JavaScript",
     "2025-05-20.md",
     "未命名 1.canvas",
     "欢迎.md",
-    "创建链接.md",
-    "CSAPP"
+    "创建链接.md"
   ]
 }
