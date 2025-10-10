@@ -11,10 +11,14 @@
             "id": "8d37ecad2e467a88",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2025-10-04.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "2025-10-04"
             }
           }
         ]
@@ -177,11 +181,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3847c8a6b4043e54",
+  "active": "8d37ecad2e467a88",
   "lastOpenFiles": [
+    "2025-10-10.md",
+    "2025-10-04.md",
     "RISV-C/$2$ RISC-V 指令集形式.md",
     "未命名 1.base",
-    "2025-10-10.md",
     "JAVA/3.md",
     "RISV-C/$2$ Synchronization.md",
     "计算机组成原理/$5$ CPU详细结构.md",
@@ -212,7 +217,6 @@
     "Pasted image 20251004183257.png",
     "Pasted image 20251004182938.png",
     "Untitled.base",
-    "2025-10-04.md",
     "机器学习",
     "CV/王轶铭【大创】.md",
     "JAVA",
