@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "287e2cceca83c8f8",
+        "id": "54ce206644197961",
         "type": "tabs",
         "children": [
           {
-            "id": "5da7ce27b0944128",
+            "id": "8d37ecad2e467a88",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -149,7 +149,7 @@
             }
           },
           {
-            "id": "f120bae5fff4ec82",
+            "id": "14d3332240ec1407",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -177,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5da7ce27b0944128",
+  "active": "3847c8a6b4043e54",
   "lastOpenFiles": [
     "RISV-C/$2$ RISC-V 指令集形式.md",
     "未命名 1.base",
