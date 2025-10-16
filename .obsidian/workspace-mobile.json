@@ -13,14 +13,14 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "大学物理/自感和互感.excalidraw.md"
+                "file": "RISV-C/$4$CPU设计1.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "自感和互感.excalidraw"
+              "title": "$4$CPU设计1.excalidraw"
             }
           },
           {
-            "id": "cde1caa150c090bb",
+            "id": "a36236bbf412d92d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,8 +33,7 @@
               "title": "$4$ CPU的设计和指令"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,16 +179,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "cde1caa150c090bb",
+  "active": "90b2de63b76436f4",
   "lastOpenFiles": [
-    "Excalidraw/电磁学复习.excalidraw.md",
+    "RISV-C/$4$CPU设计1.excalidraw.md",
     "RISV-C/$4$ CPU的设计和指令.md",
+    "RISV-C/$2$ RISC-V 指令集形式.md",
+    "Excalidraw/Drawing 2025-10-14 16.26.03.excalidraw.md",
+    "大学物理课后题(上, 下)答案.pdf",
     "大学物理/自感和互感.excalidraw.md",
+    "Excalidraw/电磁学复习.excalidraw.md",
     "CV/大创简历.pdf",
     "大学物理/作业3+作业4.pdf",
     "大学物理/04电磁波.excalidraw.md",
     "2025-10-15.md",
-    "大学物理课后题(上, 下)答案.pdf",
     "大学物理/04电磁波.jpeg",
     "大学物理/大学物理下.base",
     "Untitled.md",
@@ -200,7 +202,6 @@
     "未命名.canvas",
     "RISV-C/$3$ IEEE浮点数.md",
     "web archive.webarchive",
-    "RISV-C/$2$ RISC-V 指令集形式.md",
     "Excalidraw/Drawing 2025-10-14 20.19.38.excalidraw.md",
     "大学物理/Drawing 2025-10-14 20.19.18.excalidraw.md",
     "未命名.md",
@@ -212,7 +213,6 @@
     "IMG_0018.jpeg",
     "CV/王轶铭.pdf",
     "JAVA/3.md",
-    "Excalidraw/Drawing 2025-10-14 16.26.03.excalidraw.md",
     "Excalidraw/Drawing 2025-10-14 16.25.34.excalidraw.md",
     "Excalidraw/Drawing 2025-10-14 16.28.46.excalidraw.md",
     "JavaScript/基本知识.md",

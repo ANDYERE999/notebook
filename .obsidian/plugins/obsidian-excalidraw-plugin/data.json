@@ -224,31 +224,31 @@
       }
     },
     {
-      "type": "fountain",
+      "type": "default",
       "freedrawOnly": false,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
       "fillStyle": "hachure",
-      "strokeWidth": 2,
+      "strokeWidth": 0,
       "roughness": 0,
       "penOptions": {
         "highlighter": false,
         "constantPressure": false,
         "hasOutline": false,
-        "outlineWidth": 1,
+        "outlineWidth": 0,
         "options": {
-          "smoothing": 0.2,
           "thinning": 0.6,
-          "streamline": 0.2,
-          "easing": "easeInOutSine",
+          "smoothing": 0.5,
+          "streamline": 0.5,
+          "easing": "easeOutSine",
           "start": {
-            "taper": 150,
             "cap": true,
+            "taper": 0,
             "easing": "linear"
           },
           "end": {
-            "taper": 1,
             "cap": true,
+            "taper": 0,
             "easing": "linear"
           }
         }
@@ -441,7 +441,7 @@
       }
     }
   ],
-  "numberOfCustomPens": 0,
+  "numberOfCustomPens": 4,
   "pdfScale": 4,
   "pdfBorderBox": true,
   "pdfFrame": false,
@@ -450,7 +450,7 @@
   "pdfLockAfterImport": true,
   "pdfNumColumns": 1,
   "pdfNumRows": 1,
-  "pdfDirection": "right",
+  "pdfDirection": "down",
   "pdfImportScale": 0.3,
   "gridSettings": {
     "DYNAMIC_COLOR": true,
