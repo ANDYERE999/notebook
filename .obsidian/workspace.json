@@ -167,10 +167,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 410.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "omnisearch:Omnisearch": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -181,7 +183,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d39c8bbb93f8c5cc",
+  "active": "14d3332240ec1407",
   "lastOpenFiles": [
     "RISV-C/$3$ IEEE浮点数.md",
     "计算机组成原理/$1$ 计算机基础.md",
