@@ -1,0 +1,7 @@
+filters:
+  and:
+    - file.path.startsWith("大学物理/")
+    - file.basename.endsWith("excalidraw")
+views:
+  - type: table
+    name: 表格
