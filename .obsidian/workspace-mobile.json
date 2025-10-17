@@ -4,27 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "63fe416cd31f05b9",
+        "id": "0cde0de39ff42244",
         "type": "tabs",
         "children": [
           {
-            "id": "a1d1ef246a84d3ce",
+            "id": "7e3009787e1a5cd5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "excalidraw",
               "state": {
-                "file": "概率论/概率论作业.canvas",
-                "viewState": {
-                  "x": -243.7500000000001,
-                  "y": -329,
-                  "zoom": 1
-                }
+                "file": "离散数学/离散数学函数作业.excalidraw.md"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "概率论作业"
+              "icon": "excalidraw-icon",
+              "title": "离散数学函数作业.excalidraw"
+            }
+          },
+          {
+            "id": "fc30f98da5f3741b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "离散数学/离散数学第六章函数.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "离散数学第六章函数.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,8 +178,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a1d1ef246a84d3ce",
+  "active": "fc30f98da5f3741b",
   "lastOpenFiles": [
+    "【Large Files】",
+    "离散数学/离散数学函数作业.excalidraw.md",
+    "离散数学/离散数学第六章函数.excalidraw.md",
+    "概率论/概率论作业.canvas",
     "计算机组成原理/计算机组成与设计  硬件／软件接口_15312342.(1).pdf",
     "计算机组成原理/$5$ CPU详细结构.md",
     "RISV-C/$4$CPU设计1.excalidraw.md",
@@ -183,14 +195,13 @@
     "大学物理/04电磁波.jpeg",
     "大学物理/自感和互感.excalidraw.md",
     "大学物理/04电磁波.excalidraw.md",
-    "Excalidraw/Drawing 2025-10-16 21.06.44.excalidraw.md",
     "IMG_0033.jpeg",
     "离散数学",
     "乐谱/清涟.md",
     "大学物理/作业3+作业4.pdf",
     "RISV-C/$2$ RISC-V 指令集形式.md",
     "Excalidraw/Drawing 2025-10-14 16.26.03.excalidraw.md",
-    "大学物理课后题(上, 下)答案.pdf",
+    "【Large Files】/大学物理课后题(上, 下)答案.pdf",
     "CV/大创简历.pdf",
     "2025-10-15.md",
     "大学物理/大学物理下.base",
@@ -209,8 +220,6 @@
     "IMG_0018.jpeg",
     "JAVA/3.md",
     "Excalidraw/Drawing 2025-10-14 16.25.34.excalidraw.md",
-    "Excalidraw/Drawing 2025-10-14 16.28.46.excalidraw.md",
-    "JavaScript/基本知识.md",
-    "概率论/概率论作业.canvas"
+    "Excalidraw/Drawing 2025-10-14 16.28.46.excalidraw.md"
   ]
 }
