@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b9bb137fd817f169",
+        "id": "5c259cc195d557ed",
         "type": "tabs",
         "children": [
           {
-            "id": "67c95c8a7216a41a",
+            "id": "567c3467dfc9cb2c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "2025-10-17.md",
-                "mode": "source",
-                "source": false
+                "file": "离散数学/离散数学函数作业.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "2025-10-17"
+              "icon": "excalidraw-icon",
+              "title": "离散数学函数作业.excalidraw"
             }
           }
         ]
@@ -183,10 +181,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "67c95c8a7216a41a",
+  "active": "567c3467dfc9cb2c",
   "lastOpenFiles": [
-    "2025-10-15.md",
+    "离散数学/离散数学第六章函数.excalidraw.md",
+    "离散数学/离散数学函数作业.excalidraw.md",
+    "离散数学/离散数学函数作业.excalidraw.png",
+    "离散数学/离散数学函数作业.excalidraw - 副本 - 副本.png",
+    "离散数学/离散数学函数作业.excalidraw - 副本 (2).png",
+    "离散数学/离散数学函数作业.excalidraw - 副本.png",
+    "离散数学/离散数学函数作业.pdf",
     "2025-10-17.md",
+    "离散数学",
+    "2025-10-15.md",
     "IMG_0033.jpeg",
     "Excalidraw/Drawing 2025-10-16 21.06.44.excalidraw.md",
     "Excalidraw/电磁学复习.excalidraw.md",
@@ -215,24 +221,15 @@
     "copilot/copilot-custom-prompts/Generate glossary.md",
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "机器学习/03自注意力机制：Self-Attention.pdf",
     "Pasted image 20251004185820.png",
     "Pasted image 20251004184529.png",
     "Pasted image 20251004184444.png",
-    "Pasted image 20251004183257.png",
-    "Pasted image 20251004182938.png",
     "机器学习",
     "JAVA",
-    "CV/王轶铭.pdf",
-    "Pasted image 20250924111152.png",
-    "Pasted image 20250922091247.png",
     "概率论/概率论作业.canvas",
-    "CV",
     "未命名 2.canvas",
     "未命名 1.canvas"
   ]
