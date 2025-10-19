@@ -11,12 +11,14 @@
             "id": "7e3009787e1a5cd5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "离散数学/离散数学函数作业.excalidraw.md"
+                "file": "前端/Typescript.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "离散数学函数作业.excalidraw"
+              "icon": "lucide-file",
+              "title": "Typescript"
             }
           },
           {
@@ -177,9 +179,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ac423f2128969e7f",
+  "active": "7e3009787e1a5cd5",
   "lastOpenFiles": [
     "离散数学/离散数学函数作业.excalidraw.md",
+    "前端/Typescript.md",
     "【Large Files】/大学物理课后题(上, 下)答案.pdf",
     "离散数学/离散数学第六章函数.excalidraw.md",
     "【Large Files】",
