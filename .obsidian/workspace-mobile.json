@@ -4,33 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0cde0de39ff42244",
+        "id": "fb5cbd75fc74cafb",
         "type": "tabs",
         "children": [
           {
-            "id": "7e3009787e1a5cd5",
+            "id": "9ba9f612efa437e6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端/Typescript.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Typescript"
-            }
-          },
-          {
-            "id": "fc30f98da5f3741b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "【Large Files】/大学物理课后题(上, 下)答案.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "大学物理课后题(上, 下)答案"
+              "title": "新标签页"
             }
           }
         ]
@@ -179,12 +163,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7e3009787e1a5cd5",
+  "active": "9ba9f612efa437e6",
   "lastOpenFiles": [
-    "离散数学/离散数学函数作业.excalidraw.md",
     "前端/Typescript.md",
     "【Large Files】/大学物理课后题(上, 下)答案.pdf",
     "离散数学/离散数学第六章函数.excalidraw.md",
+    "大学物理/自感和互感.excalidraw.md",
+    "/前端/Typescript.md",
+    "/前端",
+    "2025-10-17.md",
+    "/离散数学/离散数学函数作业.excalidraw.md",
+    "/离散数学",
+    "/2025-10-17.md",
+    "离散数学/离散数学函数作业.excalidraw.md",
     "【Large Files】",
     "概率论/概率论作业.canvas",
     "计算机组成原理/计算机组成与设计  硬件／软件接口_15312342.(1).pdf",
@@ -196,7 +187,6 @@
     "乐谱/Drawing 2025-10-14 18.23.13.excalidraw.md",
     "大学物理/03电磁感应.md",
     "大学物理/04电磁波.jpeg",
-    "大学物理/自感和互感.excalidraw.md",
     "大学物理/04电磁波.excalidraw.md",
     "IMG_0033.jpeg",
     "离散数学",
@@ -212,15 +202,8 @@
     "未命名.base",
     "未命名.canvas",
     "RISV-C/$3$ IEEE浮点数.md",
-    "web archive.webarchive",
     "Excalidraw/Drawing 2025-10-14 20.19.38.excalidraw.md",
     "大学物理/Drawing 2025-10-14 20.19.18.excalidraw.md",
-    "未命名.md",
-    "大学物理",
-    "2025-10-10.md",
-    "IMG_0018.jpeg",
-    "JAVA/3.md",
-    "Excalidraw/Drawing 2025-10-14 16.25.34.excalidraw.md",
-    "Excalidraw/Drawing 2025-10-14 16.28.46.excalidraw.md"
+    "IMG_0018.jpeg"
   ]
 }
