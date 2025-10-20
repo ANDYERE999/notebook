@@ -1,4 +1,7 @@
 # 1. 基本CPU设计
+
+[[$4$CPU设计1.excalidraw]]
+![[$4$CPU设计1.excalidraw]]
 ![[$4$CPU设计1.excalidraw]]
 # 2. 时钟周期设计
 - **组合逻辑元件**
