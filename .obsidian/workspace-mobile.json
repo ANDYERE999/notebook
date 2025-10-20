@@ -4,20 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "9d5340cb84cb001c",
+        "id": "df72a846ea0b335b",
         "type": "tabs",
         "children": [
           {
-            "id": "a6e7dfe703f9dbdf",
+            "id": "968fb8f3926570d1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "excalidraw",
+              "state": {
+                "file": "概率论/一维随机变量及其分布.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "一维随机变量及其分布.excalidraw"
+            }
+          },
+          {
+            "id": "5e1d0cab2f3a418f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "概率论/Drawing 2025-10-20 15.52.42.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-10-20 15.52.42.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,8 +178,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a6e7dfe703f9dbdf",
+  "active": "5e1d0cab2f3a418f",
   "lastOpenFiles": [
+    "概率论/Drawing 2025-10-20 15.52.42.excalidraw.md",
+    "概率论/一维随机变量及其分布.excalidraw.md",
     "RISV-C/$4$CPU设计1.excalidraw.md",
     "RISV-C/$4$ CPU的设计和指令.md",
     "前端/Typescript.md",
@@ -203,7 +220,6 @@
     "未命名.canvas",
     "RISV-C/$3$ IEEE浮点数.md",
     "Excalidraw/Drawing 2025-10-14 20.19.38.excalidraw.md",
-    "大学物理/Drawing 2025-10-14 20.19.18.excalidraw.md",
     "IMG_0018.jpeg"
   ]
 }

@@ -203,7 +203,7 @@
       "penOptions": {
         "highlighter": false,
         "hasOutline": false,
-        "outlineWidth": 1,
+        "outlineWidth": 0,
         "constantPressure": true,
         "options": {
           "smoothing": 0.4,
