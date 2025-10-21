@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "968fb8f3926570d1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "概率论/一维随机变量及其分布.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "一维随机变量及其分布.excalidraw"
-            }
-          },
-          {
             "id": "5e1d0cab2f3a418f",
             "type": "leaf",
             "state": {
@@ -30,9 +18,20 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2025-10-21 16.05.01.excalidraw"
             }
+          },
+          {
+            "id": "ea492b3d1c1591aa",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "大学物理/Drawing 2025-10-21 19.36.05.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-10-21 19.36.05.excalidraw"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,8 +179,13 @@
   },
   "active": "5e1d0cab2f3a418f",
   "lastOpenFiles": [
+    "大学物理/04电磁波.excalidraw.md",
     "离散数学/Drawing 2025-10-21 16.05.01.excalidraw.md",
+    "机器学习/01机器学习：分类器.md",
     "概率论/一维随机变量及其分布.excalidraw.md",
+    "大学物理/Drawing 2025-10-21 19.36.05.excalidraw.md",
+    "Excalidraw/电磁学复习.excalidraw.md",
+    "大学物理/03电磁感应.md",
     "概率论/Drawing 2025-10-20 15.52.42.excalidraw.md",
     "RISV-C/$4$CPU设计1.excalidraw.md",
     "RISV-C/$4$ CPU的设计和指令.md",
@@ -200,12 +204,9 @@
     "概率论/概率论作业.canvas",
     "计算机组成原理/计算机组成与设计  硬件／软件接口_15312342.(1).pdf",
     "计算机组成原理/$5$ CPU详细结构.md",
-    "Excalidraw/电磁学复习.excalidraw.md",
     "JAVA/2.md",
     "乐谱/Drawing 2025-10-14 18.23.13.excalidraw.md",
-    "大学物理/03电磁感应.md",
     "大学物理/04电磁波.jpeg",
-    "大学物理/04电磁波.excalidraw.md",
     "IMG_0033.jpeg",
     "离散数学",
     "乐谱/清涟.md",
@@ -216,10 +217,8 @@
     "2025-10-15.md",
     "大学物理/大学物理下.base",
     "Untitled.md",
-    "未命名 1.md",
     "未命名.base",
     "未命名.canvas",
-    "RISV-C/$3$ IEEE浮点数.md",
     "IMG_0018.jpeg"
   ]
 }
