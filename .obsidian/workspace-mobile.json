@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "df72a846ea0b335b",
+        "id": "985023418f224186",
         "type": "tabs",
         "children": [
           {
-            "id": "5e1d0cab2f3a418f",
+            "id": "e513ae21a38b427b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "RISV-C/$4$CPU设计1.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "$4$CPU设计1.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -165,21 +163,27 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5e1d0cab2f3a418f",
+  "active": "e513ae21a38b427b",
   "lastOpenFiles": [
-    "离散数学/Drawing 2025-10-21 16.05.01.excalidraw.md",
+    "JAVA/5 类、对象、方法.md",
+    "大学物理/Drawing 2025-10-24 10.03.35.excalidraw.md",
+    "Drawing 2025-10-14 16.25.34.excalidraw.md",
+    "JAVA/3.md",
     "大学物理/Drawing 2025-10-21 19.36.05.excalidraw.md",
+    "离散数学/期中复习.excalidraw.md",
+    "离散数学/离散数学第六章函数.excalidraw.md",
+    "离散数学/第七章基数.excalidraw.md",
+    "离散数学/离散数学函数作业.excalidraw.md",
+    "概率论/Drawing 2025-10-20 15.52.42.excalidraw.md",
+    "前端/Typescript.md",
+    "RISV-C/$4$CPU设计1.excalidraw.md",
     "大学物理/04电磁波.excalidraw.md",
     "机器学习/01机器学习：分类器.md",
     "概率论/一维随机变量及其分布.excalidraw.md",
     "Excalidraw/电磁学复习.excalidraw.md",
     "大学物理/03电磁感应.md",
-    "概率论/Drawing 2025-10-20 15.52.42.excalidraw.md",
-    "RISV-C/$4$CPU设计1.excalidraw.md",
     "RISV-C/$4$ CPU的设计和指令.md",
-    "前端/Typescript.md",
     "【Large Files】/大学物理课后题(上, 下)答案.pdf",
-    "离散数学/离散数学第六章函数.excalidraw.md",
     "大学物理/自感和互感.excalidraw.md",
     "/前端/Typescript.md",
     "/前端",
@@ -187,7 +191,6 @@
     "/离散数学/离散数学函数作业.excalidraw.md",
     "/离散数学",
     "/2025-10-17.md",
-    "离散数学/离散数学函数作业.excalidraw.md",
     "【Large Files】",
     "概率论/概率论作业.canvas",
     "计算机组成原理/计算机组成与设计  硬件／软件接口_15312342.(1).pdf",
@@ -197,14 +200,9 @@
     "大学物理/04电磁波.jpeg",
     "IMG_0033.jpeg",
     "离散数学",
-    "乐谱/清涟.md",
     "大学物理/作业3+作业4.pdf",
-    "RISV-C/$2$ RISC-V 指令集形式.md",
-    "Excalidraw/Drawing 2025-10-14 16.26.03.excalidraw.md",
     "CV/大创简历.pdf",
-    "2025-10-15.md",
     "大学物理/大学物理下.base",
-    "Untitled.md",
     "未命名.base",
     "未命名.canvas",
     "IMG_0018.jpeg"
