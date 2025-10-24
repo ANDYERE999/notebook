@@ -11,13 +11,28 @@
             "id": "e513ae21a38b427b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "excalidraw",
+              "state": {
+                "file": "离散数学/第七章基数.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "第七章基数.excalidraw"
+            }
+          },
+          {
+            "id": "230349f81557b2b7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "离散数学/第七章基数作业.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "第七章基数作业.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,16 +178,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e513ae21a38b427b",
+  "active": "230349f81557b2b7",
   "lastOpenFiles": [
+    "离散数学/第七章基数.excalidraw.md",
+    "离散数学/第七章基数作业.excalidraw.md",
+    "离散数学/期中复习.excalidraw.md",
     "JAVA/5 类、对象、方法.md",
     "大学物理/Drawing 2025-10-24 10.03.35.excalidraw.md",
     "Drawing 2025-10-14 16.25.34.excalidraw.md",
     "JAVA/3.md",
     "大学物理/Drawing 2025-10-21 19.36.05.excalidraw.md",
-    "离散数学/期中复习.excalidraw.md",
     "离散数学/离散数学第六章函数.excalidraw.md",
-    "离散数学/第七章基数.excalidraw.md",
     "离散数学/离散数学函数作业.excalidraw.md",
     "概率论/Drawing 2025-10-20 15.52.42.excalidraw.md",
     "前端/Typescript.md",
@@ -196,7 +212,6 @@
     "计算机组成原理/计算机组成与设计  硬件／软件接口_15312342.(1).pdf",
     "计算机组成原理/$5$ CPU详细结构.md",
     "JAVA/2.md",
-    "乐谱/Drawing 2025-10-14 18.23.13.excalidraw.md",
     "大学物理/04电磁波.jpeg",
     "IMG_0033.jpeg",
     "离散数学",
