@@ -13,10 +13,22 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "大学物理/06光的干涉作业.excalidraw.md"
+                "file": "离散数学/期中复习.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "06光的干涉作业.excalidraw"
+              "title": "期中复习.excalidraw"
+            }
+          },
+          {
+            "id": "6df49fb7a8af08e2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "离散数学/第七章第七章群论.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "第七章第七章群论.excalidraw"
             }
           },
           {
@@ -42,8 +54,19 @@
               "icon": "excalidraw-icon",
               "title": "一维随机变量及其分布.excalidraw"
             }
+          },
+          {
+            "id": "52ca4317b1a19ad6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,21 +212,24 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "230349f81557b2b7",
+  "active": "6df49fb7a8af08e2",
   "lastOpenFiles": [
-    "【Large Files】/大学物理课后题(上, 下)答案.pdf",
+    "离散数学/期中复习.excalidraw.md",
+    "离散数学/第七章第七章群论.excalidraw.md",
+    "RISV-C/$4$CPU设计1.excalidraw.md",
+    "RISV-C/$4$ CPU的设计和指令.md",
+    "RISV-C/$2$ RISC-V 指令集形式.md",
+    "RISV-C/$3$ IEEE浮点数.md",
     "大学物理/06光的干涉作业.excalidraw.md",
+    "【Large Files】/大学物理课后题(上, 下)答案.pdf",
     "大学物理/06光的干涉.excalidraw.md",
     "概率论/一维随机变量及其分布.excalidraw.md",
     "未命名 3.md",
     "概率论/Drawing 2025-10-20 15.52.42.excalidraw.md",
-    "离散数学/期中复习.excalidraw.md",
     "离散数学/离散数学第六章函数.excalidraw.md",
     "未命名 2.md",
-    "RISV-C/$4$CPU设计1.excalidraw.md",
     "大学物理/电磁学复习.excalidraw.md",
     "大学物理/04电磁波.excalidraw.md",
-    "RISV-C/$2$ RISC-V 指令集形式.md",
     "离散数学/第七章基数.excalidraw.md",
     "大学物理/05几何光学.excalidraw.md",
     "离散数学/第七章基数作业.excalidraw.md",
@@ -216,8 +242,6 @@
     "前端/Typescript.md",
     "机器学习/01机器学习：分类器.md",
     "大学物理/03电磁感应.md",
-    "RISV-C/$4$ CPU的设计和指令.md",
-    "大学物理/自感和互感.excalidraw.md",
     "/前端",
     "【Large Files】",
     "概率论/概率论作业.canvas",
