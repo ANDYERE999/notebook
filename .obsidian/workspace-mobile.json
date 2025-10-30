@@ -4,69 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "985023418f224186",
+        "id": "cb954f79f902cb71",
         "type": "tabs",
         "children": [
           {
-            "id": "230349f81557b2b7",
+            "id": "9f40b21208b39874",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "离散数学/期中复习.excalidraw.md"
+                "file": "RISV-C/$2$ RISC-V 指令集形式.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "期中复习.excalidraw"
-            }
-          },
-          {
-            "id": "6df49fb7a8af08e2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "离散数学/第七章第七章群论.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "第七章第七章群论.excalidraw"
-            }
-          },
-          {
-            "id": "6d4d998fc789042c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "大学物理/06光的干涉.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "06光的干涉.excalidraw"
-            }
-          },
-          {
-            "id": "878fbd3decc2cbad",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "概率论/一维随机变量及其分布.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "一维随机变量及其分布.excalidraw"
-            }
-          },
-          {
-            "id": "52ca4317b1a19ad6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "$2$ RISC-V 指令集形式"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,21 +167,23 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6df49fb7a8af08e2",
+  "active": "9f40b21208b39874",
   "lastOpenFiles": [
-    "离散数学/期中复习.excalidraw.md",
-    "离散数学/第七章第七章群论.excalidraw.md",
+    "RISV-C/$2$ Synchronization.md",
+    "RISV-C/$3$ IEEE浮点数.md",
     "RISV-C/$4$CPU设计1.excalidraw.md",
+    "离散数学/离散数学第六章函数.excalidraw.md",
+    "离散数学/第八章群论.excalidraw.md",
+    "概率论/一维随机变量及其分布.excalidraw.md",
+    "大学物理/06光的干涉.excalidraw.md",
+    "离散数学/期中复习.excalidraw.md",
+    "Stable Diffusion/基本.md",
     "RISV-C/$4$ CPU的设计和指令.md",
     "RISV-C/$2$ RISC-V 指令集形式.md",
-    "RISV-C/$3$ IEEE浮点数.md",
     "大学物理/06光的干涉作业.excalidraw.md",
     "【Large Files】/大学物理课后题(上, 下)答案.pdf",
-    "大学物理/06光的干涉.excalidraw.md",
-    "概率论/一维随机变量及其分布.excalidraw.md",
     "未命名 3.md",
     "概率论/Drawing 2025-10-20 15.52.42.excalidraw.md",
-    "离散数学/离散数学第六章函数.excalidraw.md",
     "未命名 2.md",
     "大学物理/电磁学复习.excalidraw.md",
     "大学物理/04电磁波.excalidraw.md",
@@ -240,8 +197,6 @@
     "JAVA/3.md",
     "离散数学/离散数学函数作业.excalidraw.md",
     "前端/Typescript.md",
-    "机器学习/01机器学习：分类器.md",
-    "大学物理/03电磁感应.md",
     "/前端",
     "【Large Files】",
     "概率论/概率论作业.canvas",
