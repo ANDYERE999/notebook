@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RISV-C/$2$ RISC-V 指令集形式.md",
+                "file": "JAVA/6数组 Array.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "$2$ RISC-V 指令集形式"
+              "title": "6数组 Array"
             }
           }
         ]
@@ -169,6 +169,14 @@
   },
   "active": "9f40b21208b39874",
   "lastOpenFiles": [
+    "JAVA/5 类、对象、方法.md",
+    "JAVA/6数组 Array.md",
+    "大学物理/06光的干涉作业.excalidraw.md",
+    "大学物理/06光的干涉作业.excalidraw.png",
+    "大学物理/大学物理下.base",
+    "RISV-C/$2$ RISC-V 指令集形式.md",
+    "/离散数学/第七章基数作业.excalidraw.md",
+    "/离散数学",
     "RISV-C/$2$ Synchronization.md",
     "RISV-C/$3$ IEEE浮点数.md",
     "RISV-C/$4$CPU设计1.excalidraw.md",
@@ -179,8 +187,6 @@
     "离散数学/期中复习.excalidraw.md",
     "Stable Diffusion/基本.md",
     "RISV-C/$4$ CPU的设计和指令.md",
-    "RISV-C/$2$ RISC-V 指令集形式.md",
-    "大学物理/06光的干涉作业.excalidraw.md",
     "【Large Files】/大学物理课后题(上, 下)答案.pdf",
     "未命名 3.md",
     "概率论/Drawing 2025-10-20 15.52.42.excalidraw.md",
@@ -190,13 +196,9 @@
     "离散数学/第七章基数.excalidraw.md",
     "大学物理/05几何光学.excalidraw.md",
     "离散数学/第七章基数作业.excalidraw.md",
-    "/离散数学/第七章基数作业.excalidraw.md",
-    "/离散数学",
-    "JAVA/5 类、对象、方法.md",
     "Drawing 2025-10-14 16.25.34.excalidraw.md",
     "JAVA/3.md",
     "离散数学/离散数学函数作业.excalidraw.md",
-    "前端/Typescript.md",
     "/前端",
     "【Large Files】",
     "概率论/概率论作业.canvas",
@@ -206,7 +208,6 @@
     "离散数学",
     "大学物理/作业3+作业4.pdf",
     "CV/大创简历.pdf",
-    "大学物理/大学物理下.base",
     "未命名.base",
     "未命名.canvas",
     "IMG_0018.jpeg"
