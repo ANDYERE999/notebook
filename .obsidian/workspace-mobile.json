@@ -164,11 +164,16 @@
       "bases:创建新数据库": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-camera:Obsidian Camera": false
     }
   },
   "active": "9f40b21208b39874",
   "lastOpenFiles": [
+    "JAVA/5.5 访问权限.md",
+    "attachments/snaps/image_Oct_31_2025_16-27-12_GMT.png",
+    "attachments/snaps",
+    "attachments",
     "JAVA/5 类、对象、方法.md",
     "JAVA/6数组 Array.md",
     "大学物理/06光的干涉作业.excalidraw.md",
@@ -197,8 +202,6 @@
     "大学物理/05几何光学.excalidraw.md",
     "离散数学/第七章基数作业.excalidraw.md",
     "Drawing 2025-10-14 16.25.34.excalidraw.md",
-    "JAVA/3.md",
-    "离散数学/离散数学函数作业.excalidraw.md",
     "/前端",
     "【Large Files】",
     "概率论/概率论作业.canvas",
@@ -207,8 +210,6 @@
     "IMG_0033.jpeg",
     "离散数学",
     "大学物理/作业3+作业4.pdf",
-    "CV/大创简历.pdf",
-    "未命名.base",
     "未命名.canvas",
     "IMG_0018.jpeg"
   ]
