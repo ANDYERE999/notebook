@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8b37e280775c47dd",
+        "id": "c7741bde3b94f04f",
         "type": "tabs",
         "children": [
           {
-            "id": "eb37823a58bca047",
+            "id": "5dc6daacde1e517d",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "大学物理/自感和互感.excalidraw.md"
+                "file": "概率论/Drawing 2025-10-20 15.52.42.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "自感和互感.excalidraw"
+              "title": "Drawing 2025-10-20 15.52.42.excalidraw"
             }
           }
         ]
@@ -166,23 +166,30 @@
       "obsidian-camera:Obsidian Camera": false
     }
   },
-  "active": "eb37823a58bca047",
+  "active": "5dc6daacde1e517d",
   "lastOpenFiles": [
+    "概率论/Drawing 2025-10-20 15.52.42.excalidraw.md",
+    "attachments/snaps/image_Nov_03_2025_15-24-06_GMT.png",
+    "attachments/snaps/image_Oct_31_2025_16-27-12_GMT.png",
+    "Stable Diffusion/基本.md",
+    "IMG_0033.jpeg",
+    "IMG_6300.jpg",
+    "IMG_0018.jpeg",
+    "attachments/snaps/image_Nov_03_2025_15-23-19_GMT.png",
+    "Diary/Drawing 2025-11-01 14.03.58.excalidraw.md",
+    "大学物理/自感和互感.excalidraw.md",
     "大学物理/电磁学复习.excalidraw.md",
     "大学物理/06光的干涉作业.excalidraw.md",
     "大学物理/06光的干涉作业.excalidraw.png",
-    "大学物理/自感和互感.excalidraw.md",
     "离散数学/第八章群论.excalidraw.md",
     "大学物理/04电磁波.excalidraw.md",
     "大学物理/04电磁波.jpeg",
     "大学物理/03电磁感应.md",
     "大学物理/06光的干涉.excalidraw.md",
-    "Diary/Drawing 2025-11-01 14.03.58.excalidraw.md",
     "Diary/未命名.md",
     "Diary",
     "JAVA/6数组 Array.md",
     "JAVA/5.5 访问权限.md",
-    "attachments/snaps/image_Oct_31_2025_16-27-12_GMT.png",
     "attachments/snaps",
     "attachments",
     "JAVA/5 类、对象、方法.md",
@@ -196,19 +203,15 @@
     "离散数学/离散数学第六章函数.excalidraw.md",
     "概率论/一维随机变量及其分布.excalidraw.md",
     "离散数学/期中复习.excalidraw.md",
-    "Stable Diffusion/基本.md",
     "RISV-C/$4$ CPU的设计和指令.md",
     "【Large Files】/大学物理课后题(上, 下)答案.pdf",
     "未命名 3.md",
-    "概率论/Drawing 2025-10-20 15.52.42.excalidraw.md",
     "未命名 2.md",
     "/前端",
     "【Large Files】",
     "概率论/概率论作业.canvas",
     "计算机组成原理/计算机组成与设计  硬件／软件接口_15312342.(1).pdf",
-    "IMG_0033.jpeg",
     "离散数学",
-    "未命名.canvas",
-    "IMG_0018.jpeg"
+    "未命名.canvas"
   ]
 }
