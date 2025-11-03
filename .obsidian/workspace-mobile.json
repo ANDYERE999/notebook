@@ -13,13 +13,26 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "概率论/Drawing 2025-10-20 15.52.42.excalidraw.md"
+                "file": "概率论/二维随机变量及其分布.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-10-20 15.52.42.excalidraw"
+              "title": "二维随机变量及其分布.excalidraw"
+            }
+          },
+          {
+            "id": "eea43631fc1cd06f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "概率论/Drawing 2025-11-03 16.13.44.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-11-03 16.13.44.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,9 +179,11 @@
       "obsidian-camera:Obsidian Camera": false
     }
   },
-  "active": "5dc6daacde1e517d",
+  "active": "ac423f2128969e7f",
   "lastOpenFiles": [
-    "概率论/Drawing 2025-10-20 15.52.42.excalidraw.md",
+    "概率论/二维随机变量及其分布.excalidraw.md",
+    "概率论/Drawing 2025-11-03 16.13.44.excalidraw.md",
+    "Diary/Drawing 2025-11-01 14.03.58.excalidraw.md",
     "attachments/snaps/image_Nov_03_2025_15-24-06_GMT.png",
     "attachments/snaps/image_Oct_31_2025_16-27-12_GMT.png",
     "Stable Diffusion/基本.md",
@@ -176,7 +191,6 @@
     "IMG_6300.jpg",
     "IMG_0018.jpeg",
     "attachments/snaps/image_Nov_03_2025_15-23-19_GMT.png",
-    "Diary/Drawing 2025-11-01 14.03.58.excalidraw.md",
     "大学物理/自感和互感.excalidraw.md",
     "大学物理/电磁学复习.excalidraw.md",
     "大学物理/06光的干涉作业.excalidraw.md",
