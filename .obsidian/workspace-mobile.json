@@ -8,31 +8,32 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5dc6daacde1e517d",
+            "id": "114544a066980738",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "概率论/二维随机变量及其分布.excalidraw.md"
+                "file": "JAVA/7字符串类 面向对象特征.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "二维随机变量及其分布.excalidraw"
+              "icon": "lucide-file",
+              "title": "7字符串类 面向对象特征"
             }
           },
           {
-            "id": "eea43631fc1cd06f",
+            "id": "c64257152779a95e",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "概率论/Drawing 2025-11-03 16.13.44.excalidraw.md"
+                "file": "大学物理/Drawing 2025-11-06 10.39.46.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-11-03 16.13.44.excalidraw"
+              "title": "Drawing 2025-11-06 10.39.46.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,9 +180,18 @@
       "obsidian-camera:Obsidian Camera": false
     }
   },
-  "active": "ac423f2128969e7f",
+  "active": "114544a066980738",
   "lastOpenFiles": [
+    "JAVA/6数组 Array.md",
+    "JAVA/7字符串类 面向对象特征.md",
+    "RISV-C/$4$CPU设计1.excalidraw.md",
+    "离散数学/第八章群论.excalidraw.md",
+    "大学物理/Drawing 2025-11-06 10.39.46.excalidraw.md",
+    "离散数学/期中复习.excalidraw.md",
+    "大学物理/07光的衍射.excalidraw.md",
     "概率论/二维随机变量及其分布.excalidraw.md",
+    "概率论/一维随机变量及其分布.excalidraw.md",
+    "附件：武汉大学本科生学科竞赛认定信息表（2025年）.pdf",
     "概率论/Drawing 2025-11-03 16.13.44.excalidraw.md",
     "Diary/Drawing 2025-11-01 14.03.58.excalidraw.md",
     "attachments/snaps/image_Nov_03_2025_15-24-06_GMT.png",
@@ -195,14 +205,12 @@
     "大学物理/电磁学复习.excalidraw.md",
     "大学物理/06光的干涉作业.excalidraw.md",
     "大学物理/06光的干涉作业.excalidraw.png",
-    "离散数学/第八章群论.excalidraw.md",
     "大学物理/04电磁波.excalidraw.md",
     "大学物理/04电磁波.jpeg",
     "大学物理/03电磁感应.md",
     "大学物理/06光的干涉.excalidraw.md",
     "Diary/未命名.md",
     "Diary",
-    "JAVA/6数组 Array.md",
     "JAVA/5.5 访问权限.md",
     "attachments/snaps",
     "attachments",
@@ -213,19 +221,12 @@
     "/离散数学",
     "RISV-C/$2$ Synchronization.md",
     "RISV-C/$3$ IEEE浮点数.md",
-    "RISV-C/$4$CPU设计1.excalidraw.md",
     "离散数学/离散数学第六章函数.excalidraw.md",
-    "概率论/一维随机变量及其分布.excalidraw.md",
-    "离散数学/期中复习.excalidraw.md",
-    "RISV-C/$4$ CPU的设计和指令.md",
     "【Large Files】/大学物理课后题(上, 下)答案.pdf",
-    "未命名 3.md",
-    "未命名 2.md",
     "/前端",
     "【Large Files】",
     "概率论/概率论作业.canvas",
     "计算机组成原理/计算机组成与设计  硬件／软件接口_15312342.(1).pdf",
-    "离散数学",
     "未命名.canvas"
   ]
 }
