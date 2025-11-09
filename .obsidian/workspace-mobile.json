@@ -8,32 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "114544a066980738",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JAVA/7字符串类 面向对象特征.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7字符串类 面向对象特征"
-            }
-          },
-          {
-            "id": "c64257152779a95e",
+            "id": "5e81765e96de0a01",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "大学物理/Drawing 2025-11-06 10.39.46.excalidraw.md"
+                "file": "大学物理/07光的衍射作业.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-11-06 10.39.46.excalidraw"
+              "title": "07光的衍射作业.excalidraw"
+            }
+          },
+          {
+            "id": "f681c5e044760a9d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "离散数学/第八章群论作业1.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "第八章群论作业1.excalidraw"
+            }
+          },
+          {
+            "id": "a6a4fe792e132229",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "离散数学/第八章群论.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "第八章群论.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,15 +191,22 @@
       "obsidian-camera:Obsidian Camera": false
     }
   },
-  "active": "114544a066980738",
+  "active": "f681c5e044760a9d",
   "lastOpenFiles": [
-    "JAVA/6数组 Array.md",
-    "JAVA/7字符串类 面向对象特征.md",
-    "RISV-C/$4$CPU设计1.excalidraw.md",
     "离散数学/第八章群论.excalidraw.md",
-    "大学物理/Drawing 2025-11-06 10.39.46.excalidraw.md",
-    "离散数学/期中复习.excalidraw.md",
+    "离散数学/第八章群论作业1.excalidraw.md",
+    "【Large Files】/大学物理课后题(上, 下)答案.pdf",
+    "大学物理/06光的干涉.excalidraw.md",
     "大学物理/07光的衍射.excalidraw.md",
+    "大学物理/07光的衍射作业.excalidraw.md",
+    "JAVA/7字符串类 面向对象特征.md",
+    "未命名 4.md",
+    "JAVA/5.5 访问权限.md",
+    "JAVA/6数组 Array.md",
+    "大学物理/Drawing 2025-11-06 10.39.46.excalidraw.md",
+    "JAVA/5 类、对象、方法.md",
+    "RISV-C/$4$CPU设计1.excalidraw.md",
+    "离散数学/期中复习.excalidraw.md",
     "概率论/二维随机变量及其分布.excalidraw.md",
     "概率论/一维随机变量及其分布.excalidraw.md",
     "附件：武汉大学本科生学科竞赛认定信息表（2025年）.pdf",
@@ -208,21 +226,13 @@
     "大学物理/04电磁波.excalidraw.md",
     "大学物理/04电磁波.jpeg",
     "大学物理/03电磁感应.md",
-    "大学物理/06光的干涉.excalidraw.md",
     "Diary/未命名.md",
     "Diary",
-    "JAVA/5.5 访问权限.md",
     "attachments/snaps",
     "attachments",
-    "JAVA/5 类、对象、方法.md",
     "大学物理/大学物理下.base",
     "RISV-C/$2$ RISC-V 指令集形式.md",
-    "/离散数学/第七章基数作业.excalidraw.md",
     "/离散数学",
-    "RISV-C/$2$ Synchronization.md",
-    "RISV-C/$3$ IEEE浮点数.md",
-    "离散数学/离散数学第六章函数.excalidraw.md",
-    "【Large Files】/大学物理课后题(上, 下)答案.pdf",
     "/前端",
     "【Large Files】",
     "概率论/概率论作业.canvas",
