@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e32a17fd15fb1efe",
+        "id": "16a58b0f50706e28",
         "type": "tabs",
         "children": [
           {
-            "id": "50f0ea19c6d00243",
+            "id": "0ddd8b477bc15905",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "机器学习/03自注意力机制：Self-Attention.md",
-                "mode": "source",
-                "source": false
+                "aFile": "CV/简历【2025-10-30】.md",
+                "bFile": "CV/简历【2025-10-30】.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "03自注意力机制：Self-Attention"
+              "icon": "diff",
+              "title": "Diff: 简历【2025-10-30】"
             }
           }
         ]
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.501522064209
+    "width": 252.50152206420898
   },
   "right": {
     "id": "cb6a631375e425f0",
@@ -171,6 +171,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-camera:Obsidian Camera": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "omnisearch:Omnisearch": false,
       "switcher:打开快速切换": false,
@@ -183,8 +184,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "50f0ea19c6d00243",
+  "active": "0ddd8b477bc15905",
   "lastOpenFiles": [
+    "离散数学/第八章群论作业1.excalidraw.md",
+    "未命名 4.md",
+    "大学物理/07光的衍射作业.excalidraw.md",
+    "Diary/Drawing 2025-11-01 14.03.58.excalidraw.md",
+    "离散数学/期中复习.excalidraw.md",
+    "CV/简历【2025-10-30】.md",
+    "attachments/snaps/image_Oct_31_2025_16-27-12_GMT.png",
+    "attachments/snaps/image_Nov_03_2025_15-23-19_GMT.png",
+    "attachments/snaps/image_Nov_03_2025_15-24-06_GMT.png",
+    "attachments/snaps",
+    "attachments",
+    "JAVA/7字符串类 面向对象特征.md",
+    "JAVA/6数组 Array.md",
+    "JAVA/5.5 访问权限.md",
+    "Diary/未命名.md",
+    "Diary",
+    "CV/~$ Microsoft Word 文档.docx",
+    "CV/新建 Microsoft Word 文档.docx",
+    "机器学习/03自注意力机制：Self-Attention.md",
     "离散数学/第八章群论.excalidraw.md",
     "未命名 3.md",
     "未命名 2.md",
@@ -206,32 +226,13 @@
     "大学物理/03电磁感应.md",
     "大学物理/04电磁波.excalidraw.md",
     "大学物理/大学物理下.base",
-    "大学物理/自感和互感.excalidraw.md",
     "大学物理/作业3+作业4.pdf",
-    "离散数学/离散数学第六章函数.excalidraw.md",
-    "离散数学/第七章基数作业.excalidraw.md",
-    "离散数学/期中复习.excalidraw.md",
     "Pasted image 20250819163516.png",
-    "离散数学/第七章基数.excalidraw.md",
-    "概率论/一维随机变量及其分布.excalidraw.md",
-    "概率论/Drawing 2025-10-20 15.52.42.excalidraw.md",
-    "大学物理/Drawing 2025-10-24 10.03.35.excalidraw.md",
-    "大学物理/Drawing 2025-10-21 19.36.05.excalidraw.md",
-    "JAVA/5 类、对象、方法.md",
-    "Drawing 2025-10-14 16.25.34.excalidraw.md",
     "前端",
     "离散数学/离散数学函数作业.excalidraw.png",
-    "离散数学/离散数学函数作业.excalidraw - 副本 - 副本.png",
-    "离散数学/离散数学函数作业.excalidraw - 副本 (2).png",
-    "离散数学/离散数学函数作业.excalidraw - 副本.png",
     "离散数学/离散数学函数作业.pdf",
     "离散数学",
-    "未命名 1.base",
     "未命名.canvas",
-    "Untitled.base",
-    "未命名.base",
-    "copilot/copilot-custom-prompts",
-    "copilot",
     "概率论/概率论作业.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas"
