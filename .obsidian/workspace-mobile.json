@@ -4,31 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "b7deb8568b83b668",
+        "id": "04eecea862e2a6c4",
         "type": "tabs",
         "children": [
           {
-            "id": "ce66d6d45c1f5b45",
+            "id": "c569594e6406901a",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "概率论/二维随机变量及其分布.excalidraw.md"
+                "file": "离散数学/第八章群论.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "二维随机变量及其分布.excalidraw"
+              "title": "第八章群论.excalidraw"
             }
           },
           {
-            "id": "b3cb11bba146230e",
+            "id": "a795c2c2edbc4785",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "概率论/04随机变量的数字特征.excalidraw.md"
+                "file": "RISV-C/分层存储体系结构.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "04随机变量的数字特征.excalidraw"
+              "title": "分层存储体系结构.excalidraw"
             }
           }
         ]
@@ -178,11 +178,14 @@
       "obsidian-camera:Obsidian Camera": false
     }
   },
-  "active": "ce66d6d45c1f5b45",
+  "active": "c569594e6406901a",
   "lastOpenFiles": [
-    "英语",
+    "离散数学/第八章群论.excalidraw.md",
+    "RISV-C/分层存储体系结构.excalidraw.md",
     "概率论/04随机变量的数字特征.excalidraw.md",
+    "英语/Drawing 2025-11-11 21.46.31.excalidraw.md",
     "概率论/二维随机变量及其分布.excalidraw.md",
+    "英语",
     "CV/简历【2025-10-30】.md",
     "/离散数学/期中复习.excalidraw.md",
     "/离散数学",
@@ -195,8 +198,6 @@
     "大学物理/07光的衍射作业.excalidraw.md",
     "离散数学/第八章群论作业1.excalidraw.md",
     "计算机组成原理/$3$ 存储系统.md",
-    "离散数学/第八章群论.excalidraw.md",
-    "RISV-C/分层存储体系结构.excalidraw.md",
     "【Large Files】/大学物理课后题(上, 下)答案.pdf",
     "大学物理/06光的干涉.excalidraw.md",
     "大学物理/07光的衍射.excalidraw.md",
@@ -223,7 +224,6 @@
     "大学物理/04电磁波.jpeg",
     "Diary",
     "attachments/snaps",
-    "attachments",
     "概率论/概率论作业.canvas",
     "未命名.canvas"
   ]
