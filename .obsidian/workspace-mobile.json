@@ -20,27 +20,15 @@
             }
           },
           {
-            "id": "e0e65688583456ac",
+            "id": "28f45eeb411b3814",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "RISV-C/homework/Drawing 2025-11-16 16.01.16.excalidraw.md"
+                "file": "离散数学/第八章群论作业2.excalidraw.png"
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-11-16 16.01.16.excalidraw"
-            }
-          },
-          {
-            "id": "a795c2c2edbc4785",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "RISV-C/$4$CPU设计1.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "$4$CPU设计1.excalidraw"
+              "icon": "lucide-image",
+              "title": "第八章群论作业2.excalidraw"
             }
           }
         ],
@@ -191,13 +179,15 @@
       "obsidian-camera:Obsidian Camera": false
     }
   },
-  "active": "e0e65688583456ac",
+  "active": "28f45eeb411b3814",
   "lastOpenFiles": [
+    "离散数学/第八章群论作业2.excalidraw.md",
+    "离散数学/第八章群论作业2.excalidraw.png",
+    "离散数学/第八章群论.excalidraw.md",
+    "RISV-C/$4$CPU设计1.excalidraw.md",
+    "RISV-C/homework/Drawing 2025-11-16 16.01.16.excalidraw.md",
     "IMG_0285.jpeg",
     "计算机组成原理/计算机组成与设计  硬件／软件接口_15312342.(1).pdf",
-    "RISV-C/$4$CPU设计1.excalidraw.md",
-    "离散数学/第八章群论.excalidraw.md",
-    "RISV-C/homework/Drawing 2025-11-16 16.01.16.excalidraw.md",
     "RISV-C/分层存储体系结构.excalidraw.md",
     "RISV-C/homework",
     "概率论/04随机变量的数字特征.excalidraw.md",
@@ -228,7 +218,6 @@
     "离散数学/期中复习.excalidraw.md",
     "概率论/一维随机变量及其分布.excalidraw.md",
     "附件：武汉大学本科生学科竞赛认定信息表（2025年）.pdf",
-    "Diary/Drawing 2025-11-01 14.03.58.excalidraw.md",
     "attachments/snaps/image_Nov_03_2025_15-24-06_GMT.png",
     "attachments/snaps/image_Oct_31_2025_16-27-12_GMT.png",
     "IMG_0033.jpeg",
