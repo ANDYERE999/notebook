@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "16a58b0f50706e28",
+        "id": "e70b0762576687a2",
         "type": "tabs",
         "children": [
           {
-            "id": "0ddd8b477bc15905",
+            "id": "826573e59cea6c22",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "excalidraw",
               "state": {
-                "aFile": "CV/简历【2025-10-30】.md",
-                "bFile": "CV/简历【2025-10-30】.md",
-                "aRef": ""
+                "file": "RISV-C/homework/Drawing 2025-11-16 16.01.16.excalidraw.md"
               },
-              "icon": "diff",
-              "title": "Diff: 简历【2025-10-30】"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-11-16 16.01.16.excalidraw"
             }
           }
         ]
@@ -184,11 +182,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ddd8b477bc15905",
+  "active": "826573e59cea6c22",
   "lastOpenFiles": [
-    "离散数学/第八章群论作业1.excalidraw.md",
-    "未命名 4.md",
+    "RISV-C/homework/PixPin_2025-11-15_17-20-51.png",
+    "RISV-C/$4$CPU设计1.excalidraw.md",
+    "RISV-C/homework/Drawing 2025-11-16 16.01.16.excalidraw.md",
+    "RISV-C/homework",
+    "IMG_0285.jpeg",
+    "英语/Drawing 2025-11-11 21.46.31.excalidraw.md",
+    "英语",
+    "概率论/04随机变量的数字特征.excalidraw.md",
+    "RISV-C/分层存储体系结构.excalidraw.md",
     "大学物理/07光的衍射作业.excalidraw.md",
+    "离散数学/第八章群论作业1.excalidraw.md",
+    "离散数学/第七章基数作业.excalidraw.md",
+    "未命名 4.md",
     "Diary/Drawing 2025-11-01 14.03.58.excalidraw.md",
     "离散数学/期中复习.excalidraw.md",
     "CV/简历【2025-10-30】.md",
@@ -213,25 +221,15 @@
     "大学物理/06光的干涉.excalidraw.md",
     "大学物理/05几何光学.excalidraw.md",
     "机器学习/01机器学习：分类器.md",
-    "前端/基本知识.md",
-    "RISV-C/$2$ RISC-V 指令集形式.md",
-    "Stable Diffusion/基本.md",
-    "2025-10-04.md",
-    "Untitled.md",
     "Pasted image 20251011102604.png",
     "Pasted image 20251004184529.png",
     "Pasted image 20250809213326.png",
     "Pasted image 20250805200243.png",
     "大学物理/04电磁波.jpeg",
-    "大学物理/03电磁感应.md",
-    "大学物理/04电磁波.excalidraw.md",
     "大学物理/大学物理下.base",
     "大学物理/作业3+作业4.pdf",
     "Pasted image 20250819163516.png",
     "前端",
-    "离散数学/离散数学函数作业.excalidraw.png",
-    "离散数学/离散数学函数作业.pdf",
-    "离散数学",
     "未命名.canvas",
     "概率论/概率论作业.canvas",
     "未命名 2.canvas",
