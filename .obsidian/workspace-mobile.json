@@ -13,26 +13,50 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "离散数学/第八章群论.excalidraw.md"
+                "file": "RISV-C/分层存储体系结构.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "第八章群论.excalidraw"
+              "title": "分层存储体系结构.excalidraw"
             }
           },
           {
-            "id": "28f45eeb411b3814",
+            "id": "2d2a9932d2bc05fb",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "离散数学/第八章群论作业2.excalidraw.png"
+                "file": "概率论/04随机变量的数字特征.excalidraw.md"
               },
-              "icon": "lucide-image",
-              "title": "第八章群论作业2.excalidraw"
+              "icon": "excalidraw-icon",
+              "title": "04随机变量的数字特征.excalidraw"
+            }
+          },
+          {
+            "id": "4c38ae4d6a8fa14f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "概率论/05大数定理和中心极限定理.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "05大数定理和中心极限定理.excalidraw"
+            }
+          },
+          {
+            "id": "673bda735e1109c0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "概率论/二维随机变量及其分布.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "二维随机变量及其分布.excalidraw"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,20 +203,30 @@
       "obsidian-camera:Obsidian Camera": false
     }
   },
-  "active": "28f45eeb411b3814",
+  "active": "4c38ae4d6a8fa14f",
   "lastOpenFiles": [
+    "概率论/04随机变量的数字特征.excalidraw.md",
+    "概率论/05大数定理和中心极限定理.excalidraw.md",
+    "概率论/二维随机变量及其分布.excalidraw.md",
+    "概率论/一维随机变量及其分布.excalidraw.md",
+    "RISV-C/分层存储体系结构.excalidraw.md",
+    "image_0.jpg",
+    "image.jpg",
+    "机器学习/03自注意力机制：Self-Attention.md",
+    "计算机组成原理/计算机组成与设计  硬件／软件接口_15312342.(1).pdf",
     "离散数学/第八章群论作业2.excalidraw.md",
-    "离散数学/第八章群论作业2.excalidraw.png",
     "离散数学/第八章群论.excalidraw.md",
+    "离散数学/第八章群论作业2.excalidraw.png",
+    "/RISV-C/homework/PixPin_2025-11-15_17-20-51.png",
+    "RISV-C/homework/PixPin_2025-11-15_17-20-51.png",
+    "/RISV-C/homework",
+    "/RISV-C/$4$CPU设计1.excalidraw.md",
+    "/RISV-C",
     "RISV-C/$4$CPU设计1.excalidraw.md",
     "RISV-C/homework/Drawing 2025-11-16 16.01.16.excalidraw.md",
     "IMG_0285.jpeg",
-    "计算机组成原理/计算机组成与设计  硬件／软件接口_15312342.(1).pdf",
-    "RISV-C/分层存储体系结构.excalidraw.md",
     "RISV-C/homework",
-    "概率论/04随机变量的数字特征.excalidraw.md",
     "英语/Drawing 2025-11-11 21.46.31.excalidraw.md",
-    "概率论/二维随机变量及其分布.excalidraw.md",
     "英语",
     "CV/简历【2025-10-30】.md",
     "/离散数学/期中复习.excalidraw.md",
@@ -206,7 +240,6 @@
     "大学物理/07光的衍射作业.excalidraw.md",
     "离散数学/第八章群论作业1.excalidraw.md",
     "计算机组成原理/$3$ 存储系统.md",
-    "【Large Files】/大学物理课后题(上, 下)答案.pdf",
     "大学物理/06光的干涉.excalidraw.md",
     "大学物理/07光的衍射.excalidraw.md",
     "JAVA/7字符串类 面向对象特征.md",
@@ -214,18 +247,10 @@
     "JAVA/5.5 访问权限.md",
     "JAVA/6数组 Array.md",
     "大学物理/Drawing 2025-11-06 10.39.46.excalidraw.md",
-    "JAVA/5 类、对象、方法.md",
-    "离散数学/期中复习.excalidraw.md",
-    "概率论/一维随机变量及其分布.excalidraw.md",
-    "附件：武汉大学本科生学科竞赛认定信息表（2025年）.pdf",
     "attachments/snaps/image_Nov_03_2025_15-24-06_GMT.png",
     "attachments/snaps/image_Oct_31_2025_16-27-12_GMT.png",
     "IMG_0033.jpeg",
     "IMG_6300.jpg",
-    "IMG_0018.jpeg",
-    "attachments/snaps/image_Nov_03_2025_15-23-19_GMT.png",
-    "大学物理/06光的干涉作业.excalidraw.png",
-    "大学物理/04电磁波.jpeg",
     "概率论/概率论作业.canvas",
     "未命名.canvas"
   ]
