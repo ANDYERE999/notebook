@@ -11,28 +11,58 @@
             "id": "04039e39829f1a6c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "【Large Files】/大学物理课后题(上, 下)答案.pdf"
+                "file": "JAVA/5.5 访问权限.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "大学物理课后题(上, 下)答案"
+              "icon": "lucide-file",
+              "title": "5.5 访问权限"
             }
           },
           {
             "id": "dd7baef4d2d5c714",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JAVA/7字符串类 面向对象特征.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7字符串类 面向对象特征"
+            }
+          },
+          {
+            "id": "efe6d6afb16eebcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JAVA/8 抽象类.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8 抽象类"
+            }
+          },
+          {
+            "id": "784e7abac2d2cd4a",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "大学物理/08光的偏振作业.excalidraw.md"
+                "file": "大学物理/电磁学复习.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "08光的偏振作业.excalidraw"
+              "title": "电磁学复习.excalidraw"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,8 +209,12 @@
       "obsidian-camera:Obsidian Camera": false
     }
   },
-  "active": "dd7baef4d2d5c714",
+  "active": "efe6d6afb16eebcc",
   "lastOpenFiles": [
+    "JAVA/7字符串类 面向对象特征.md",
+    "JAVA/8 抽象类.md",
+    "JAVA/5.5 访问权限.md",
+    "大学物理/电磁学复习.excalidraw.md",
     "【Large Files】/大学物理课后题(上, 下)答案.pdf",
     "大学物理/08光的偏振作业.excalidraw.md",
     "大学物理/08光的偏振.excalidraw.md",
@@ -220,9 +254,6 @@
     "/Diary",
     "/CV/简历【2025-10-30】.md",
     "/CV/新建 Microsoft Word 文档.docx",
-    "大学物理/07光的衍射作业.excalidraw.md",
-    "离散数学/第八章群论作业1.excalidraw.md",
-    "计算机组成原理/$3$ 存储系统.md",
     "attachments/snaps/image_Nov_03_2025_15-24-06_GMT.png",
     "attachments/snaps/image_Oct_31_2025_16-27-12_GMT.png",
     "IMG_0033.jpeg",
