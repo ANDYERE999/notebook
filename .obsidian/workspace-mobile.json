@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "04039e39829f1a6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JAVA/5.5 访问权限.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5.5 访问权限"
-            }
-          },
-          {
             "id": "dd7baef4d2d5c714",
             "type": "leaf",
             "state": {
@@ -36,20 +22,6 @@
             }
           },
           {
-            "id": "efe6d6afb16eebcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JAVA/8 抽象类.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8 抽象类"
-            }
-          },
-          {
             "id": "784e7abac2d2cd4a",
             "type": "leaf",
             "state": {
@@ -59,6 +31,30 @@
               },
               "icon": "excalidraw-icon",
               "title": "电磁学复习.excalidraw"
+            }
+          },
+          {
+            "id": "2df7a6c096703d42",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "离散数学/第八章群论作业3.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "第八章群论作业3.excalidraw"
+            }
+          },
+          {
+            "id": "83598fe183df768d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "离散数学/第八章群论.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "第八章群论.excalidraw"
             }
           }
         ],
@@ -209,17 +205,18 @@
       "obsidian-camera:Obsidian Camera": false
     }
   },
-  "active": "efe6d6afb16eebcc",
+  "active": "2df7a6c096703d42",
   "lastOpenFiles": [
-    "JAVA/7字符串类 面向对象特征.md",
-    "JAVA/8 抽象类.md",
-    "JAVA/5.5 访问权限.md",
+    "离散数学/第八章群论.excalidraw.md",
+    "离散数学/第八章群论作业3.excalidraw.md",
     "大学物理/电磁学复习.excalidraw.md",
+    "JAVA/8 抽象类.md",
+    "JAVA/7字符串类 面向对象特征.md",
+    "JAVA/5.5 访问权限.md",
     "【Large Files】/大学物理课后题(上, 下)答案.pdf",
     "大学物理/08光的偏振作业.excalidraw.md",
     "大学物理/08光的偏振.excalidraw.md",
     "概率论/04随机变量的数字特征.excalidraw.md",
-    "离散数学/第八章群论.excalidraw.md",
     "概率论/概率论作业7.excalidraw.restored.md",
     "概率论/概率论作业7.excalidraw.md",
     "大学物理/03电磁感应.md",
@@ -252,7 +249,6 @@
     "/离散数学",
     "/Diary/Drawing 2025-11-01 14.03.58.excalidraw.md",
     "/Diary",
-    "/CV/简历【2025-10-30】.md",
     "/CV/新建 Microsoft Word 文档.docx",
     "attachments/snaps/image_Nov_03_2025_15-24-06_GMT.png",
     "attachments/snaps/image_Oct_31_2025_16-27-12_GMT.png",
