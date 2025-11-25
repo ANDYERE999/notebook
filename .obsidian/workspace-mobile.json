@@ -11,50 +11,48 @@
             "id": "dd7baef4d2d5c714",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "JAVA/7字符串类 面向对象特征.md",
-                "mode": "source",
-                "source": false
+                "file": "概率论/04随机变量的数字特征.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "7字符串类 面向对象特征"
+              "icon": "excalidraw-icon",
+              "title": "04随机变量的数字特征.excalidraw"
             }
           },
           {
-            "id": "784e7abac2d2cd4a",
+            "id": "af7dcf4bb1f89aa8",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "大学物理/电磁学复习.excalidraw.md"
+                "file": "概率论/05大数定理和中心极限定理.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "电磁学复习.excalidraw"
+              "title": "05大数定理和中心极限定理.excalidraw"
             }
           },
           {
-            "id": "2df7a6c096703d42",
+            "id": "d2f48879fccc6107",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "离散数学/第八章群论作业3.excalidraw.md"
+                "file": "概率论/06样本和抽样分布作业.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "第八章群论作业3.excalidraw"
+              "title": "06样本和抽样分布作业.excalidraw"
             }
           },
           {
-            "id": "83598fe183df768d",
+            "id": "26cdb463c89d8445",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "离散数学/第八章群论.excalidraw.md"
+                "file": "概率论/06样本和抽样分布.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "第八章群论.excalidraw"
+              "title": "06样本和抽样分布.excalidraw"
             }
           }
         ],
@@ -205,28 +203,31 @@
       "obsidian-camera:Obsidian Camera": false
     }
   },
-  "active": "2df7a6c096703d42",
+  "active": "d2f48879fccc6107",
   "lastOpenFiles": [
+    "概率论/06样本和抽样分布.excalidraw.md",
+    "概率论/06样本和抽样分布作业.excalidraw.md",
+    "概率论/05大数定理和中心极限定理.excalidraw.md",
+    "概率论/04随机变量的数字特征.excalidraw.md",
+    "RISV-C/分层存储体系结构.excalidraw.md",
     "离散数学/第八章群论.excalidraw.md",
+    "概率论/二维随机变量及其分布.excalidraw.md",
+    "未命名 5.md",
     "离散数学/第八章群论作业3.excalidraw.md",
     "大学物理/电磁学复习.excalidraw.md",
-    "JAVA/8 抽象类.md",
+    "计算机组成原理/Drawing 2025-11-19 21.24.40.excalidraw.md",
     "JAVA/7字符串类 面向对象特征.md",
+    "JAVA/8 抽象类.md",
     "JAVA/5.5 访问权限.md",
     "【Large Files】/大学物理课后题(上, 下)答案.pdf",
     "大学物理/08光的偏振作业.excalidraw.md",
     "大学物理/08光的偏振.excalidraw.md",
-    "概率论/04随机变量的数字特征.excalidraw.md",
     "概率论/概率论作业7.excalidraw.restored.md",
     "概率论/概率论作业7.excalidraw.md",
     "大学物理/03电磁感应.md",
-    "RISV-C/分层存储体系结构.excalidraw.md",
     "8-群论.pdf",
     "计算机组成原理/计算机组成与设计  硬件／软件接口_15312342.(1).pdf",
-    "计算机组成原理/Drawing 2025-11-19 21.24.40.excalidraw.md",
     "概率论/概率论作业.canvas",
-    "概率论/二维随机变量及其分布.excalidraw.md",
-    "概率论/05大数定理和中心极限定理.excalidraw.md",
     "概率论/一维随机变量及其分布.excalidraw.md",
     "image_0.jpg",
     "image.jpg",
@@ -244,10 +245,7 @@
     "RISV-C/homework",
     "英语/Drawing 2025-11-11 21.46.31.excalidraw.md",
     "英语",
-    "CV/简历【2025-10-30】.md",
-    "/离散数学/期中复习.excalidraw.md",
     "/离散数学",
-    "/Diary/Drawing 2025-11-01 14.03.58.excalidraw.md",
     "/Diary",
     "/CV/新建 Microsoft Word 文档.docx",
     "attachments/snaps/image_Nov_03_2025_15-24-06_GMT.png",
