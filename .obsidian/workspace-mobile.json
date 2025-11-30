@@ -25,26 +25,26 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "大学物理/09狭义相对论作业.excalidraw.md"
+                "file": "离散数学/第八章群论.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "09狭义相对论作业.excalidraw"
+              "title": "第八章群论.excalidraw"
             }
           },
           {
-            "id": "2ccf5d92cbba6ac1",
+            "id": "be33ea151f85e8ae",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "【Large Files】/大学物理课后题(上, 下)答案.pdf"
+                "file": "离散数学/第八章群论作业4.excalidraw.md"
               },
-              "icon": "lucide-file-text",
-              "title": "大学物理课后题(上, 下)答案"
+              "icon": "excalidraw-icon",
+              "title": "第八章群论作业4.excalidraw"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,18 +191,21 @@
       "obsidian-camera:Obsidian Camera": false
     }
   },
-  "active": "0bab1deab4976656",
+  "active": "be33ea151f85e8ae",
   "lastOpenFiles": [
-    "【Large Files】/大学物理课后题(上, 下)答案.pdf",
-    "大学物理/09狭义相对论作业.excalidraw.md",
-    "大学物理/09狭义相对论.excalidraw.md",
     "离散数学/第八章群论.excalidraw.md",
+    "离散数学/第八章群论作业4.excalidraw.md",
+    "大学物理/09狭义相对论.excalidraw.md",
+    "概率论/06样本和抽样分布作业.excalidraw.md",
+    "大学物理/09狭义相对论作业.excalidraw.md",
+    "概率论/概率论作业7.excalidraw.restored.md",
+    "【Large Files】/大学物理课后题(上, 下)答案.pdf",
+    "概率论/概率论作业7.excalidraw.md",
     "离散数学/第9章图论.excalidraw.md",
     "8-群论.pdf",
     "概率论/04随机变量的数字特征.excalidraw.md",
     "概率论/05大数定理和中心极限定理.excalidraw.md",
     "概率论/06样本和抽样分布.excalidraw.md",
-    "概率论/06样本和抽样分布作业.excalidraw.md",
     "RISV-C/分层存储体系结构.excalidraw.md",
     "概率论/二维随机变量及其分布.excalidraw.md",
     "未命名 5.md",
@@ -214,8 +217,6 @@
     "JAVA/5.5 访问权限.md",
     "大学物理/08光的偏振作业.excalidraw.md",
     "大学物理/08光的偏振.excalidraw.md",
-    "概率论/概率论作业7.excalidraw.restored.md",
-    "概率论/概率论作业7.excalidraw.md",
     "大学物理/03电磁感应.md",
     "计算机组成原理/计算机组成与设计  硬件／软件接口_15312342.(1).pdf",
     "概率论/概率论作业.canvas",
