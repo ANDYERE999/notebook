@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "概率论/05大数定理和中心极限定理.excalidraw.md"
+                "file": "离散数学/第9章图论.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "05大数定理和中心极限定理.excalidraw"
+              "title": "第9章图论.excalidraw"
             }
           },
           {
@@ -25,34 +25,22 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "概率论/06样本和抽样分布.excalidraw.md"
+                "file": "离散数学/第八章群论.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "06样本和抽样分布.excalidraw"
+              "title": "第八章群论.excalidraw"
             }
           },
           {
-            "id": "10d474564e747cbd",
+            "id": "1d3d2983d21a0293",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "概率论/概率论作业8.excalidraw.md"
+                "file": "离散数学/第9章图论作业1.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "概率论作业8.excalidraw"
-            }
-          },
-          {
-            "id": "8fcfc7171ac277dc",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "概率论/二维随机变量及其分布.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "二维随机变量及其分布.excalidraw"
+              "title": "第9章图论作业1.excalidraw"
             }
           }
         ],
@@ -203,21 +191,24 @@
       "obsidian-camera:Obsidian Camera": false
     }
   },
-  "active": "10d474564e747cbd",
+  "active": "1d3d2983d21a0293",
   "lastOpenFiles": [
-    "概率论/二维随机变量及其分布.excalidraw.md",
-    "概率论/一维随机变量及其分布.excalidraw.md",
-    "概率论/05大数定理和中心极限定理.excalidraw.md",
-    "概率论/概率论作业8.excalidraw.md",
-    "概率论/06样本和抽样分布.excalidraw.md",
+    "离散数学/第9章图论.excalidraw.md",
+    "离散数学/第八章群论.excalidraw.md",
+    "离散数学/第9章图论作业1.excalidraw.md",
     "概率论/04随机变量的数字特征.excalidraw.md",
+    "概率论/概率论作业8.excalidraw.md",
+    "JAVA/9异常处理.excalidraw.md",
+    "8-群论.pdf",
+    "概率论/06样本和抽样分布.excalidraw.md",
+    "概率论/二维随机变量及其分布.excalidraw.md",
+    "概率论/05大数定理和中心极限定理.excalidraw.md",
+    "概率论/一维随机变量及其分布.excalidraw.md",
     "RISV-C/6IO.excalidraw.md",
     "概率论/06样本和抽样分布作业.excalidraw.md",
     "RISV-C/分层存储体系结构.excalidraw.md",
     "计算机组成原理/Drawing 2025-11-19 21.24.40.excalidraw.md",
     "大学物理/09狭义相对论.excalidraw.md",
-    "离散数学/第八章群论.excalidraw.md",
-    "8-群论.pdf",
     "/离散数学/第八章群论作业3.excalidraw.md",
     "/离散数学/图.xmind",
     "离散数学/图.xmind",
@@ -227,15 +218,12 @@
     "概率论/概率论作业7.excalidraw.restored.md",
     "【Large Files】/大学物理课后题(上, 下)答案.pdf",
     "概率论/概率论作业7.excalidraw.md",
-    "离散数学/第9章图论.excalidraw.md",
     "未命名 5.md",
     "离散数学/第八章群论作业3.excalidraw.md",
     "大学物理/电磁学复习.excalidraw.md",
     "JAVA/7字符串类 面向对象特征.md",
     "JAVA/8 抽象类.md",
     "JAVA/5.5 访问权限.md",
-    "大学物理/08光的偏振作业.excalidraw.md",
-    "大学物理/08光的偏振.excalidraw.md",
     "计算机组成原理/计算机组成与设计  硬件／软件接口_15312342.(1).pdf",
     "概率论/概率论作业.canvas",
     "image_0.jpg",
